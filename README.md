@@ -29,8 +29,8 @@ I specialize in building scalable systems, mastering cloud technologies, and del
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DummuMounika&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DummuMounika&layout=compact&theme=radical" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DummuMounika&show_icons=true&theme=radical" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DummuMounika&layout=compact&theme=radical" />
 </p>
 
 ---
