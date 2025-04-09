@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mounika Dummu!
 
-🎓 **Graduate Student** | 🌐 **Full-Stack Developer** | 🚀 **Cloud Enthusiast**  
+🎓 **Graduate Student** | 🌐 **Java Full-Stack Developer** | 🚀 **Cloud Enthusiast**  
 I specialize in building scalable systems, mastering cloud technologies, and delivering high-quality, efficient software solutions.
 
 ---
