@@ -7,10 +7,10 @@ I specialize in building scalable systems, mastering cloud technologies, and del
 ---
 
 ## 🧠 **About Me:**
-- 🎓 **Master’s in Computer Science** at **Southern Arkansas University** *(Graduating May 2025)*
+- 🎓 **Master’s in Computer Science** at **Southern Arkansas University** *(Graduated)*
 - 👩‍💻 **3 years** of experience in **Java**, **Spring Boot**
 - ☁️ Expertise in **Cloud Computing**, **Microservices Architectures**
-- 🌱 Passionate about **Auto-scaling**, **CI/CD**, **Distributed Systems** and **Software Development**
+- 🌱 Passionate about **Auto-scaling** , **Performance Optimization**, **CI/CD**, **Distributed Systems** and **Software Development**
 - 🎯 **Goal**: To build scalable and efficient software solutions
 
 ---
